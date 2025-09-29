@@ -1,0 +1,9 @@
+Geist Font Information:
+
+For this project, we're using the Geist font family which is a modern, minimalistic typeface.
+Since we can't directly download the font files in this environment, please:
+
+1. Download GeistVF.woff2 from: https://vercel.com/font/sans
+2. Place it in the public/fonts/ directory
+
+Alternatively, we can use a fallback approach with system fonts that provide a similar modern look.
