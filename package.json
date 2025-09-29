@@ -26,7 +26,6 @@
     "lucide-react": "^0.294.0",
     "tailwind-merge": "^2.0.0",
     "tailwindcss-animate": "^1.0.7",
-    "sqlite3": "^5.1.6",
     "better-sqlite3": "^9.2.2",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.6.0"
